@@ -1,0 +1,10 @@
+cara menjalankan
+
+- npm init -y 			            (untuk install semua package)
+- npm i --save-dev @wdio/cli  	(untuk install wdio)
+- npx wdio config -y
+- npm i --save-dev typescript
+- npm i --save-dev ts-node
+- npm i --save-dev chai
+- npm i --save-dev @type
+- npm run wdio
