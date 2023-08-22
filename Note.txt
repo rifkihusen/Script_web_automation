@@ -1,4 +1,4 @@
-cara menjalankan
+tahap pembuatan script web automation test :
 
 - npm init -y 			            (untuk install semua package)
 - npm i --save-dev @wdio/cli  	(untuk install wdio)
@@ -7,4 +7,6 @@ cara menjalankan
 - npm i --save-dev ts-node
 - npm i --save-dev chai
 - npm i --save-dev @type
-- npm run wdio
+
+untuk menjalankan program dengan perintah :
+- npm run wdio                 
