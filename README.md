@@ -1,4 +1,4 @@
-# web_automation_login_shafiq.id
+# Script_web_automation_test_shafiq.id
 Script Login web automation test sederhana dengan Framework Mocha-chai dan webdriver.io
 
 ## Login Test Case
